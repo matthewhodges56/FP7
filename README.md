@@ -1,41 +1,43 @@
 # Friday Projects
 
 # Friday Project 1 - Mad Libs Game
-A simple Mad Libs game where the user provides specific words, which are inserted into a fun story template. The user is prompted for:
+This is a simple Mad Libs game where users provide specific words that are inserted into a fun story template. The program prompts users to input:
 
-A large object
-Large objects (plural)
-An adjective
-A body part
-A restaurant
-Two types of food
-Once the inputs are provided, the program generates and displays a story using the words.
+- A large object
+- Large objects (plural)
+- An adjective
+- A body part
+- A restaurant
+- Two types of food
+- The inputs- are then used to generate and display a complete story.
 
 # Friday Project 2 - PowerBall Number Generator
 This program generates random numbers for a PowerBall ticket:
 
-Five random numbers between 1 and 69 (white balls)
-One random number between 1 and 26 (red PowerBall)
-The numbers are displayed with appropriate spacing, and the program includes a greeting and farewell message.
+- Five random numbers between 1 and 69 (white balls)
+- One random number between 1 and 26 (the red PowerBall)
+
+The numbers are displayed with appropriate formatting, and the program includes both a greeting and farewell message.
 
 # Friday Project 3 - Number Guessing Game
-A simple number guessing game where the computer randomly selects a number between 1 and 10. The user tries to guess the number:
+A number guessing game where the computer selects a random number between 1 and 10. The user guesses the number:
 
-If correct, a congratulatory message is displayed.
-If incorrect, the user is asked to try again.
-The game continues until the correct number is guessed.
+- If the guess is correct, a congratulatory message is shown.
+- If the guess is incorrect, the user is asked to try again.
+
+The game continues until the user guesses the correct number.
 
 # Friday Project 4 - Trivia Quiz
-A trivia quiz game that tests the user’s knowledge. It consists of five trivia questions stored in a dictionary. Users answer each question, and the program provides feedback on whether the response is correct. At the end, the total score is displayed.
+A simple trivia quiz that asks the user five questions. The questions are stored in a dictionary with their answers. Users answer each question, and the program provides feedback on whether the answer is correct. At the end, it tallies and displays the final score.
 
 # Friday Project 5 - Color Text Formatter
-This program allows users to display text in different colors using ANSI escape codes. The user selects a color from a menu (red, blue, green, yellow, brown), then inputs text that will be displayed in the chosen color.
+This program allows users to display text in different colors using ANSI escape codes. Users choose from five colors (red, blue, green, yellow, brown) and then input text that will be displayed in the selected color.
 
 # Friday Project 6 - Bank Account Management Program
-A simple bank account management program that allows users to:
+A basic bank account management program where users can:
 
-Deposit money
-Withdraw money (if sufficient funds are available)
-Check the balance
+- Deposit money
+- Withdraw money (if there are sufficient funds)
+- Check their account balance
 
-The program uses a BankAccount class and prompts users to enter their account number to interact with their account.
+The program uses a `BankAccount` class and prompts users to enter their account number to access and manage their account.
