@@ -29,3 +29,12 @@ If the guess is incorrect, the user is asked to try again.
 The game continues until the user guesses the correct number.
 After the game, a farewell message is displayed.
 The program uses a random number generator and a loop to provide continuous guessing until the correct answer is guessed.
+
+# Trivia Quiz Program
+This Python program is a simple trivia quiz that allows users to test their knowledge with a set of predefined questions.
+
+The quiz consists of at least five trivia questions stored in a dictionary, where keys are the questions and values are the correct answers.
+Users are prompted to answer each question one at a time.
+After each answer, the program provides feedback on whether the user's response is correct or incorrect.
+At the end of the quiz, the program tallies the user's score and displays the total number of correct answers out of the total questions asked.
+The program is designed to be straightforward and interactive, making it a fun way to learn and review trivia.
