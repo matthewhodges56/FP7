@@ -19,7 +19,7 @@ Five random numbers between 1 and 69 (representing the white balls).
 One random number between 1 and 26 (representing the red PowerBall).
 The numbers are displayed with one space between the first five white balls and three spaces between the last white ball and the red PowerBall. The program includes a greeting when it starts and a farewell message upon completion.
 
-Number Guessing Game - README
+# Number Guessing Game 
 This Python program is a simple number guessing game where the computer randomly selects a secret number between 1 and 10, and the user tries to guess it.
 
 The user is greeted and asked if they want to play the game.
