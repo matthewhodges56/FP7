@@ -9,7 +9,8 @@ This is a simple Mad Libs game where users provide specific words that are inser
 - A body part
 - A restaurant
 - Two types of food
-- The inputs- are then used to generate and display a complete story.
+
+The inputs are then used to generate and display a complete story.
 
 # Friday Project 2 - PowerBall Number Generator
 This program generates random numbers for a PowerBall ticket:
