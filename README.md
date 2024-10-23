@@ -38,3 +38,12 @@ Users are prompted to answer each question one at a time.
 After each answer, the program provides feedback on whether the user's response is correct or incorrect.
 At the end of the quiz, the program tallies the user's score and displays the total number of correct answers out of the total questions asked.
 The program is designed to be straightforward and interactive, making it a fun way to learn and review trivia.
+
+# Color Text Formatter 
+This Python program allows users to display text in various colors by utilizing functions that format the text with ANSI escape codes.
+
+The program defines five functions, each designed to change the text color: red, blue, green, yellow, and brown.
+Users are presented with a menu to select a color by entering a corresponding number.
+After choosing a color, users can input any text they want to display in that color.
+The program then prints the text formatted in the selected color.
+This interactive program is a fun way to practice defining and calling functions while learning about text formatting in the console.
